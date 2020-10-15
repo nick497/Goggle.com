@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<p>Welcome to Goggle! A web browser, we 100% guarantee we record your data, but we don't sell it and just use it to help us improve with our app!</p>
+<form id="form" role="search">
+  <input type="search" id="query" name="q"
+   placeholder="Search..."
+   aria-label="Search through site content">
+  <button>Search</button>
+</form>
+<h1>Recent Goggle searches</h1>
+<button type="button" onclick="alert('Nearest one from your location [New Jersey] is in LA California.')">Tissues near me</button>
+<button type="button" onclick="alert('ERROR! Search something idiot.')"></button>
+<button type="button" onclick="alert('SHUT UP ABOUT MY MOM BEFORE I COME TO YOUR HOUSE AND FREAKIN SHOOT YOU WITH A DESERT EA- ERROR! Sorry, some crap happended and the search engine crashed.')">Your mom sucks</button>
+<button type="button" onclick="alert('Too much')">How much stuff can I search?</button>
+<button type="button" onclick="alert('What are you a grandpa? You freakin just search stuff.')">How do I search things?</button>
+<button type="button" onclick="alert('but then how are you searching this? Is this even real? Wait... HOW LONG HAVE I BEEN HERE?!?!? ERROR! Goggle's brain just exploded.')">How to restore the recent searches</button>
+<button type="button" onclick="alert('A bunch of memory, there are A LOT of searches.')">How much memory is Goggle using?</button>
+<button type="button" onclick="alert('PLEASE READ THE TERMS OF SERVICE CAREFULLY! Us at google don't sell your data, you know what? JUST FREAKIN READ THE TERMS OF SERVICE AT THE BOTTOM!')">What is the tos at goggle?</button>
+<button type="button" onclick="alert('Good news! I asked the manager of Goggle to get rid of all the questions! So no more questions for now on unless you ask one! You can thank me ;]')">When will all the questions end?</button>
+<button type="button" onclick="alert('bruh')">bruh</button>
+<button type="button" onclick="alert('Google sucks, you should use us ;]')">Google</button>
+<button type="button" onclick="alert(Youtube does not exist, but we do have Memetube!')">Youtube</button>
+<button type="button" onclick="alert('Full of hackers.')">Yahoo</button>
+<button type="button" onclick="alert('A LONG time.')">how long have you been coding this?</button>
+<button type="button" onclick="alert('because Im poor okay?')">Why are you making this on a chromebook?</button>
+<button type="button" onclick="alert('Yup')">Goggle!</button>
+<button type="button" onclick="alert('bruh')">bruh</button>
+<button type="button" onclick="alert('yes... yes I have')">are you running out of recent searches?</button>
+<h2>TERMS OF SERVICE</h2>
+<p> PLEASE READ THE TERMS OF SERVICE CAREFULLY!</p>
+<p>Us at Goggle think of you as family, and we hope you love our company. We respect your privacy, so we do not steal your data at all, We use it to help improve Goggle, and make it more new, improved and "hip". So we hope you know that.</p>
+<! GET MAD! I DON'T WANT YOUR DAMN LEMONS WHAT AM I SUPPOSED TO DO WITH THESE? DEMAND TO SPEAK TO LIFE'S MANAGER! DO YOU KNOW WHO I AM??? I'M THE MAN WHO'S GONNA BURN YOUR HOUSE DOWN, WITH THE lEmOnS!>
+<h2>COPYRIGHT AND CRAP</h2>
+<p>We allow you to record and upload videos on our goggle homepage and search results, but we do not allow you to plagerize our code and make profit off it. We will bring you to court BECAUSE WE ARE VERY POPULAR AND WE CAN SUE ANYONE FOR COPYRIGHT AND SUE YOU FOR $72,000,000,000,000!</p>
+<!yeah we can do that even though it's illegal.>
+<h2>SOME CREDITS TO MAKE THIS LONGER</h2>
+<p>Credits: Style: Me(Nick) Code: Me(Again) and some other people I ctrl c and v the code from Death Threats: Me Trolling: Me Bad Comedy: Me Credits: Me Everything Else: Me.<p>
+<button type="button" onclick="alert('go kill yourself')">I don't accept</button>
+<button type="button" onclick="alert('cool')">I accept</button>
+  <p>ᵍᵒᵍᵍˡᵉ ᵗʰᵉ ᶠᵃᵏᵉ ᶜᵒᵐᵖᵃⁿʸ ⁿᵒ ʳⁱᵍʰᵗˢ ʳᵉˢᵉʳᵛᵉᵈ ᵇᵉᶜᵃᵘˢᵉ ᵗʰⁱˢ ⁱˢ ᵃ ᵒⁿᵉ ᵐᵃⁿ ʷᵉ ᵃʳᵉ ᵗᵃˡᵏⁱⁿᵍ ᵃᵇᵒᵘᵗ</p>
+<p>est 2020</p>
+<p>please keep in mind that our search button is not working right. although you'll probably figure that out in ten seconds before you read this because people like playing around with useless garbage.</p>
+<p>seduce me ʕ •́؈•̀ ₎</p>
+<p>discord:
+https://discord.gg/hWn4BNp
+copy and paste that link</p>
