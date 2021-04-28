@@ -1,12 +1,11 @@
 <!DOCTYPE HTML>
-<p>Welcome to Goggle! A web browser, we 100% guarantee we record your data, but we don't sell it and just use it to help us improve with our app!</p>
-<form id="form" role="search">
-  <input type="search" id="query" name="q"
-   placeholder="Search..."
-   aria-label="Search through site content">
-  <button>Search</button>
-</form>
-<h1>Recent Goggle searches</h1>
+<marquee width="60%" direction="right" height="100px">
+Welcome to Goggle
+</marquee>
+<p>we 100% guarantee we record your data, but we don't sell it and just use it to help us improve with our app!</p>
+<script async src="https://cse.google.com/cse.js?cx=9822ebea8ad1a9b67"></script>
+<div class="gcse-search"></div>
+<h2>Recent Goggle searches</h2>
 <button type="button" onclick="alert('Nearest one from your location [New Jersey] is in LA California.')">Tissues near me</button>
 <button type="button" onclick="alert('ERROR! Search something idiot.')"></button>
 <button type="button" onclick="alert('SHUT UP ABOUT MY MOM BEFORE I COME TO YOUR HOUSE AND FREAKIN SHOOT YOU WITH A DESERT EA- ERROR! Sorry, some crap happended and the search engine crashed.')">Your mom sucks</button>
@@ -43,3 +42,6 @@
 <p>discord:
 https://discord.gg/hWn4BNp
 copy and paste that link</p>
+<p>Goggle V4</p>
+<div class="secretButton" onclick="secretFunction()"></div>
+<!I have done nothing but teleport bread for three days.>
